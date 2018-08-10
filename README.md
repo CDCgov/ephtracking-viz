@@ -106,7 +106,7 @@ Call the visualization library:
   ephtrackingViz.createVisualization('svg#viz', options);
 ```
 
-This assistant helps you to generate the options: [EPH Tracking Viz Assistant](https://stfnh.github.io/ephtracking-viz-assistant/)
+This assistant helps you to generate the options: [EPH Tracking Viz Assistant](https://ephtracking-viz.surge.sh/)
 
 ## License
 
